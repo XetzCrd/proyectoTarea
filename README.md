@@ -3,7 +3,7 @@
 The web page will have the following functionalities:
 
     * User Management: Allow the user to create new users, edit existing users, and delete users.
-    * Homework Management: Allow the user to add new homeworks, delete homeworks and publish commets on it.
+    * Homework Management: Allow the user to add new homeworks, delete homeworks and publish comments on it.
     * Data Management: Allow the user to edit the data of existing users, such as their phone number, and profession.
     * PDF Download: Allow the user to download a PDF file with the information of all users.
 
